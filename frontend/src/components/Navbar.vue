@@ -13,6 +13,7 @@
         <div v-if="menuOpen" class="absolute top-10 left-0 bg-white border rounded shadow-md py-2 px-4 w-40 z-50">
           <a href="#profil" class="block text-gray-700 hover:text-blue-600 py-1">Profil</a>
           <a href="https://github.com/faanns1" target="_blank" class="block text-gray-700 hover:text-blue-600 py-1">GitHub</a>
+           <a href="https://www.linkedin.com/in/farhan-ardiansyah-003813301" target="_blank" class="block text-gray-700 hover:text-blue-600 py-1">Linkedln</a>
         </div>
       </div>
       <ul class="flex space-x-6">
