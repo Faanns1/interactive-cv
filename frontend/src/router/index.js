@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import Email from '../components/Email.vue';
+import Email from '../components/EmailMain.vue';
 import HomeView from '../views/HomeView.vue';
 
 const router = createRouter({
