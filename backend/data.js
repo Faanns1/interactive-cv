@@ -11,9 +11,8 @@ const skills = [
   { name: 'CSS', level: 'Mahir' },
   { name: 'Tailwind', level: 'Mahir' },
   { name: 'Vue Js', level: 'Mahir' },
-  { name: 'Bootstrap', level: 'Mahir' },
-  { name: 'Laravel', level: 'Mahir' },
-  { name: 'JavaScript', level: 'Mahir' }
+  { name: 'Bootstrap', level: 'Mahir' }
+ 
 
 
 ];

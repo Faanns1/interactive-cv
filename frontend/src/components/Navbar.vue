@@ -9,7 +9,7 @@
               d="M4 6h16M4 12h16M4 18h16" />
           </svg>
         </button>
-        <div class="text-2xl font-bold text-gray-800">Farhan Ardiansyah</div>
+        <div class="text-2xl font-bold text-gray-800">FansID</div>
         <div v-if="menuOpen" class="absolute top-10 left-0 bg-white border rounded shadow-md py-2 px-4 w-40 z-50">
           <a href="#profil" class="block text-gray-700 hover:text-blue-600 py-1">Profil</a>
           <a href="https://github.com/faanns1" target="_blank" class="block text-gray-700 hover:text-blue-600 py-1">GitHub</a>
