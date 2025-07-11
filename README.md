@@ -20,7 +20,7 @@
 |--------------|------------------------------|
 | Frontend     | Vue.js, Vite                 |
 | Backend      | Express.js (Node.js)         |
-| Deployment   | Vercel                       |
+| Deployment   | -                            |
 | Styling      | CSS3 / Tailwind / Bootstrap (opsional) |
 
 
